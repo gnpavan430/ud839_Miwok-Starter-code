@@ -30,6 +30,7 @@ public class NumbersActivity extends AppCompatActivity {
         list.add("Ear");
         list.add("Forest");
         list.add("God");
+        list.add("Git");
         Log.i("1st item in the list is",list.get(0).toString());
         LinearLayout layout = (LinearLayout)findViewById(R.id.rootView);
 
